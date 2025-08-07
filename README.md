@@ -1,5 +1,5 @@
 # RoboGPT
-# 🤖 RoboGPT - Neural Interface
+# 🤖 RoboGPT - AI Assistant
 
 > **Advanced Robotics Engineering Assistant powered by Google Gemini AI**
 
