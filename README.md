@@ -33,7 +33,7 @@ RoboGPT is a sophisticated AI-powered chatbot specifically designed for robotics
 ### 🔧 **Technical Features**
 - **Dual Interface**: Streamlit web app + FastAPI backend
 - **Streaming Responses**: Real-time AI response generation
-- **Session Management**: Persistent chat history
+- **Session Management**: Persistent chat history(Yet to be implemeneted)
 - **API Integration**: Google Gemini 2.5 Flash model
 - **Error Handling**: Robust error management and recovery
 
