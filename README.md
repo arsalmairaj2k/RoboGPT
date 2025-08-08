@@ -10,6 +10,9 @@ RoboGPT is a sophisticated AI-powered chatbot specifically designed for robotics
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-orange)
 ![Gemini AI](https://img.shields.io/badge/Gemini-AI-purple)
 
+<img width="1864" height="890" alt="Screenshot from 2025-08-08 15-08-42" src="https://github.com/user-attachments/assets/28929cc6-4f66-4531-811b-05bd91866344" />
+
+
 ## ✨ Features
 
 ### 🧠 **Core Capabilities**
